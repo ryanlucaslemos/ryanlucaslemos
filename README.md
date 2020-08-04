@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My stats ⚡
+### My code stats ⚡
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryanlucaslemos&show_icons=true&theme=radical)
 
-### My top langs
+***
+
+### My most used langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlucaslemos)](https://github.com/anuraghazra/github-readme-stats)
