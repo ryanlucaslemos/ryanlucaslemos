@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My profile on:
+[Facebook 💬](https://www.facebook.com/ryanlucas.lemos)
+
+[Linkedin :briefcase:](https://www.linkedin.com/in/ryanlucaslemos) 
+
+[StackOverflow :question:](https://pt.stackoverflow.com/users/101413/ryan-lemos)
+***
+
 ### My code stats ⚡
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryanlucaslemos&show_icons=true&theme=radical)
 
