@@ -16,17 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### My profile on:
-[Facebook 💬](https://www.facebook.com/ryanlucas.lemos)
-
-[Linkedin :briefcase:](https://www.linkedin.com/in/ryanlucaslemos) 
-
-[StackOverflow :question:](https://pt.stackoverflow.com/users/101413/ryan-lemos)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/ryanlucas.lemos)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanlucaslemos) 
+[![StackOverflow](https://img.shields.io/badge/-Stackoverflow-success?style=flat&logo=Stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/101413/ryan-lemos)
 ***
 
 ### My code stats ⚡
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryanlucaslemos&show_icons=true&theme=radical)
-
-***
-
-### My most used langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlucaslemos)](https://github.com/anuraghazra/github-readme-stats)
